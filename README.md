@@ -1,3 +1,3 @@
 # oss_exam
 OpenSourceSoftwares....
-[쥐쥐]www.naver.com
+[여기로가세요] www.naver.com
